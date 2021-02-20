@@ -11,4 +11,5 @@ Project Tasks for this project are:
 7. Training the model
 8. Testing the model
 9. Finally, Visualizing mistakes that are created during the project.
+
 This project is made with help of instructors and trainers of DataCamp.
